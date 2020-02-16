@@ -1,0 +1,1 @@
+# Automated-calculation-of-Land-Surface-Temperature-using-LANDSAT-8-Satellite-data-and-Python-
